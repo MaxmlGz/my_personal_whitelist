@@ -14,3 +14,4 @@ az764295.vo.msecnd.net
 download.visualstudio.microsoft.com
 dc.services.visualstudio.com
 llvm-vs-code-extensions.gallerycdn.vsassets.io
+GitHub.gallery.vsassets.io
