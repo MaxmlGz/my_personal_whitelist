@@ -1,0 +1,15 @@
+# Domain Whitelist
+# Add domains (one per line) that need to be whitelisted
+# Lines starting with # are comments
+
+# VSCode domains
+update.code.visualstudio.com
+code.visualstudio.com
+marketplace.visualstudio.com
+*.vo.msecnd.net
+vscode.blob.core.windows.net
+*.gallerycdn.vsassets.io
+vscode.download.prss.microsoft.com
+az764295.vo.msecnd.net
+download.visualstudio.microsoft.com
+dc.services.visualstudio.com
