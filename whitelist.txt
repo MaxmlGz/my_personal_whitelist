@@ -18,3 +18,5 @@ GitHub.gallery.vsassets.io
 login.live.com
 microsoft.com
 accounts.youtube.com
+github.com
+api.github.com
