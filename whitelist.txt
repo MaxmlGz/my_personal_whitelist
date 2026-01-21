@@ -17,3 +17,4 @@ llvm-vs-code-extensions.gallerycdn.vsassets.io
 GitHub.gallery.vsassets.io
 login.live.com
 microsoft.com
+accounts.youtube.com
