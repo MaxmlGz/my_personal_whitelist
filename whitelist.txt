@@ -20,3 +20,4 @@ microsoft.com
 accounts.youtube.com
 github.com
 api.github.com
+cas-bridge.xethub.hf.co
