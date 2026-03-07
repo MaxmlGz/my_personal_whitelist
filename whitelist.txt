@@ -22,3 +22,4 @@ github.com
 api.github.com
 cas-bridge.xethub.hf.co
 go.neo4j.com
+4sharedlink.com
