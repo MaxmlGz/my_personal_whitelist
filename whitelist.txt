@@ -2,18 +2,7 @@
 # Add domains (one per line) that need to be whitelisted
 # Lines starting with # are comments
 
-# VSCode domains
-update.code.visualstudio.com
-code.visualstudio.com
-marketplace.visualstudio.com
-*.vo.msecnd.net
-vscode.blob.core.windows.net
-*.gallerycdn.vsassets.io
-vscode.download.prss.microsoft.com
 az764295.vo.msecnd.net
-download.visualstudio.microsoft.com
-dc.services.visualstudio.com
-llvm-vs-code-extensions.gallerycdn.vsassets.io
 GitHub.gallery.vsassets.io
 login.live.com
 microsoft.com
@@ -25,3 +14,13 @@ go.neo4j.com
 4sharedlink.com
 oc.n1o.co
 redirect.vigl.ink/finanzguru
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+g.whatsapp.net
+whatsapp.net
+cdn.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+scontent.whatsapp.net
+static.whatsapp.net
+faq.whatsapp.com
