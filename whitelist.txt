@@ -24,3 +24,8 @@ mmx-ds.cdn.whatsapp.net
 scontent.whatsapp.net
 static.whatsapp.net
 faq.whatsapp.com
+discord.com
+discordapp.com
+discordapp.net
+discord.gg
+discord-attachments-uploads-prd.storage.googleapis.com
