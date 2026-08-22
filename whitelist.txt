@@ -29,3 +29,4 @@ discordapp.com
 discordapp.net
 discord.gg
 discord-attachments-uploads-prd.storage.googleapis.com
+reddit.com
