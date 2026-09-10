@@ -30,3 +30,17 @@ discordapp.net
 discord.gg
 discord-attachments-uploads-prd.storage.googleapis.com
 reddit.com
+
+# Grammarly — operator 2026-09-10: standard English grammar tool, also used for longer prompts.
+# UNBLOCK. inkwell.femetrics.grammarly.io alone was 1,245,730 blocked hits in one week
+# (~2/sec sustained) because NxDomain makes the client retry forever.
+grammarly.com
+grammarly.io
+grammarly.net
+inkwell.femetrics.grammarly.io
+f-log-inkwell.grammarly.io
+capi.grammarly.com
+data.grammarly.com
+gnar.grammarly.com
+tag.grammarly.io
+sentry-tunnel.grammarly.io
