@@ -37,6 +37,7 @@ dev.meta.ai
 api.meta.ai
 research.meta.ai
 lookaside.facebook.com
+facebook.com
 
 # Grammarly — operator 2026-09-10: standard English grammar tool, also used for longer prompts.
 # UNBLOCK. inkwell.femetrics.grammarly.io alone was 1,245,730 blocked hits in one week
